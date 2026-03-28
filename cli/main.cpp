@@ -20,5 +20,7 @@ int main() {
     std::cout << "Вектор містить " << numbers.size() << " елементів.\n";
     std::cout << "--- Завершення роботи ---\n";
     
+
+
     return 0;
 }
